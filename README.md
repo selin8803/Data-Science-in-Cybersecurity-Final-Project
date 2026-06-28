@@ -47,6 +47,6 @@ https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Te
 
 ## Repository Contents
 
-- `Copy of Phishing Website Detection_Models & Training..ipynb` – Complete notebook
+- `Copy of Phishing Website Detection_Models & Training.ipynb` – Complete notebook
 - `Report.pdf` – Final project report
 - `README.md` – Project description and instructions
