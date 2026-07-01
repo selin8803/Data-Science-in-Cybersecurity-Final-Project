@@ -1,4 +1,4 @@
-# Data-Science-in-Cybersecurity-Final-Project
+# Data Science in Cybersecurity – Final Project
 
 # Phishing Website Detection using Machine Learning Techniques
 
@@ -67,7 +67,7 @@ The dataset contains **10,000 website samples** described by **17 engineered cyb
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/<your-username>/Data-Science-in-Cybersecurity-Final-Project.git
 ```
 
 Install all required Python packages:
@@ -115,9 +115,20 @@ The experiments demonstrated that:
 
 # References
 
+# References
+
 * Original GitHub Repository:
   https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques
 
 * Dataset:
   https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques
+
+* Scikit-learn Documentation:
+  https://scikit-learn.org/
+
+* TensorFlow Documentation:
+  https://www.tensorflow.org/
+
+* XGBoost Documentation:
+  https://xgboost.readthedocs.io/
 
