@@ -43,7 +43,7 @@ The models were evaluated using the following performance metrics:
 ---
 
 # Original Project
-
+This project reproduces and critically evaluates the methodology and results presented in the original GitHub repository.
 Original GitHub Repository:
 
 https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ```
 
 Open the notebook using **Jupyter Notebook** or **Google Colab**, then run all cells from top to bottom.
-
+Make sure that the dataset file (5.urldata.csv) is located in the same directory as the Jupyter Notebook before running the project.
 ---
 
 # Final Results
@@ -110,11 +110,9 @@ The experiments demonstrated that:
 * `requirements.txt` – Required Python libraries.
 * `5.urldata.csv` – Dataset used in this project.
 * `README.md` – Project overview and execution instructions.
-
+* results/ – Saved figures generated during exploratory data analysis and model evaluation.
 ---
-
-# References
-
+These results confirm that machine learning provides an effective solution for phishing website detection when meaningful engineered cybersecurity features are used.
 # References
 
 * Original GitHub Repository:
